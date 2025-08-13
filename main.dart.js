@@ -39520,12 +39520,12 @@ if(o==null){s=1
 break}p.a9(new A.aj7(p,m,o))
 case 1:return A.K(q,r)}})
 return A.L($async$rQ,r)},
-I(a){var s,r,q,p,o,n=this,m=null,l=n.a2D(),k=n.af5(l),j=n.a3a(l),i=t.p,h=A.eY(A.b([new A.y4(A.aHA(m,m,new A.wk("assets/logo.jpg",m,m)),32,m),B.kQ,B.UH],i),B.Z,B.M,B.ac)
+I(a){var s,r,q,p,o,n=this,m=null,l=n.a2D(),k=n.af5(l),j=n.a3a(l),i=t.p,h=A.eY(A.b([new A.y4(A.aHA(m,m,new A.wk("assets/logo.jpg",m,m)),32,m),B.kQ,B.Uz],i),B.Z,B.M,B.ac)
 h=A.au5(A.b([A.ou(m,m,m,B.jJ,m,m,new A.aji(n,a),m,m,m,"Add expense")],i),B.PR,h)
 if(n.as)i=B.Cl
 else{s=A.eY(A.b([A.fK(n.L1(),1),B.Pd,n.L7()],i),B.Z,B.M,B.ac)
 r=n.z
-q=A.eN(A.b([B.UF,B.yO,A.cB(r.iz(k),m,m,m,m,B.Tz,m,m,m)],i),B.by,B.M,B.ac)
+q=A.eN(A.b([B.UG,B.yO,A.cB(r.iz(k),m,m,m,m,B.Tz,m,m,m)],i),B.by,B.M,B.ac)
 p=l.length
 o=A.cB("Count: "+p,m,m,m,m,m,m,m,m)
 r=A.eY(A.b([q,A.eN(A.b([o,B.yO,A.cB("Avg: "+(p===0?"0":r.iz(k/p)),m,m,m,m,m,m,m,m)],i),B.Z,B.M,B.ac)],i),B.Z,B.eH,B.ac)
@@ -39719,7 +39719,7 @@ A.n2.prototype={
 ac(){return new A.NM(new A.pF(B.f2,$.ah()))}}
 A.NM.prototype={
 I(a){var s=null
-return new A.GO(B.zj,A.add(!0,B.cn,!1,s,!0,B.G,s,A.atl(),this.d,s,s,s,s,s,2,B.G_,B.a4,!0,s,!0,s,!1,s,B.cv,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.fH,s,s,B.ce,B.bO,s,s,s,s,s,s,s,!0,B.aI,s,B.hN,s,s,s,s),A.b([A.Bg(B.UB,new A.aeE(a),s),A.avb(!1,B.UQ,s,s,s,s,s,s,new A.aeF(this,a),s,s)],t.p),s)}}
+return new A.GO(B.zj,A.add(!0,B.cn,!1,s,!0,B.G,s,A.atl(),this.d,s,s,s,s,s,2,B.G_,B.a4,!0,s,!0,s,!1,s,B.cv,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.fH,s,s,B.ce,B.bO,s,s,s,s,s,s,s,!0,B.aI,s,B.hN,s,s,s,s),A.b([A.Bg(B.UC,new A.aeE(a),s),A.avb(!1,B.UQ,s,s,s,s,s,s,new A.aeF(this,a),s,s)],t.p),s)}}
 A.aeE.prototype={
 $0(){A.eA(this.a,!1).mp(null)
 return null},
@@ -39766,7 +39766,7 @@ A.eA(o,!1).mp(new A.dH(r,m,s,q,p))},
 I(a){var s,r=this,q=null,p=A.au5(q,q,A.cB(r.a.d==null?"Add expense":"Edit expense",q,q,q,q,q,q,q,q)),o=A.add(!0,B.cn,!1,q,!0,B.G,q,A.atl(),r.d,q,q,q,q,q,2,B.G0,B.a4,!0,q,!0,q,!1,q,B.cv,q,q,q,B.Qd,q,q,q,1,q,q,!1,"\u2022",q,q,q,q,q,!1,q,q,!1,q,!0,q,B.fH,q,q,B.ce,B.bO,q,q,q,q,q,q,q,!0,B.aI,q,B.hN,q,q,q,q),n=r.f,m=J.lu(r.a.c,new A.aeK(),t.b7)
 m=A.a4(m,m.$ti.i("aA.E"))
 s=t.p
-return A.ax0(p,new A.bp(B.j8,A.ary(A.b([o,B.kS,A.eY(A.b([A.fK(A.aEY(B.G1,m,new A.aeL(r),n,t.N),1),B.kQ,A.ou(q,q,q,B.jJ,q,q,new A.aeM(r,a),q,q,q,"Add category")],s),B.Z,B.M,B.ac),B.kS,A.arw(B.ad,B.FC,q,q,A.cB("Date: "+A.auL().iz(r.r),q,q,q,q,q,q,q,q),A.Bg(B.UI,new A.aeN(r,a),q)),A.add(!0,B.cn,!1,q,!0,B.G,q,A.atl(),r.e,q,q,q,q,q,2,B.G2,B.a4,!0,q,!0,q,!1,q,B.cv,q,q,q,q,q,q,q,1,q,q,!1,"\u2022",q,q,q,q,q,!1,q,q,!1,q,!0,q,B.fH,q,q,B.ce,B.bO,q,q,q,q,q,q,q,!0,B.aI,q,B.hN,q,q,q,q),B.kR,A.avb(!1,B.UC,q,q,q,q,q,q,r.gadM(),q,q)],s),q,q,!1),q))}}
+return A.ax0(p,new A.bp(B.j8,A.ary(A.b([o,B.kS,A.eY(A.b([A.fK(A.aEY(B.G1,m,new A.aeL(r),n,t.N),1),B.kQ,A.ou(q,q,q,B.jJ,q,q,new A.aeM(r,a),q,q,q,"Add category")],s),B.Z,B.M,B.ac),B.kS,A.arw(B.ad,B.FC,q,q,A.cB("Date: "+A.auL().iz(r.r),q,q,q,q,q,q,q,q),A.Bg(B.UI,new A.aeN(r,a),q)),A.add(!0,B.cn,!1,q,!0,B.G,q,A.atl(),r.e,q,q,q,q,q,2,B.G2,B.a4,!0,q,!0,q,!1,q,B.cv,q,q,q,q,q,q,q,1,q,q,!1,"\u2022",q,q,q,q,q,!1,q,q,!1,q,!0,q,B.fH,q,q,B.ce,B.bO,q,q,q,q,q,q,q,!0,B.aI,q,B.hN,q,q,q,q),B.kR,A.avb(!1,B.UD,q,q,q,q,q,q,r.gadM(),q,q)],s),q,q,!1),q))}}
 A.aeK.prototype={
 $1(a){var s=null
 return new A.eS(a,A.cB(a,s,s,s,s,s,s,s,s),B.bK,s,t.b7)},
@@ -91223,19 +91223,19 @@ B.hl=new A.ta(0,"none")
 B.Mw=new A.ta(1,"scroll")
 B.Mx=new A.ta(3,"scale")
 B.My=new A.ta(4,"unknown")
-B.UA=new A.d9("All",null,null,null,null,null,null,null,null,null,null)
-B.Mz=new A.kz(B.u1,B.UA,null,t.gh)
+B.UB=new A.d9("All",null,null,null,null,null,null,null,null,null,null)
+B.Mz=new A.kz(B.u1,B.UB,null,t.gh)
 B.LP=new A.fn(3,"thisMonth")
 B.UJ=new A.d9("This month",null,null,null,null,null,null,null,null,null,null)
 B.MA=new A.kz(B.LP,B.UJ,null,t.gh)
-B.UE=new A.d9("Custom range",null,null,null,null,null,null,null,null,null,null)
-B.MB=new A.kz(B.kj,B.UE,null,t.gh)
+B.UF=new A.d9("Custom range",null,null,null,null,null,null,null,null,null,null)
+B.MB=new A.kz(B.kj,B.UF,null,t.gh)
 B.LO=new A.fn(2,"thisWeek")
-B.UG=new A.d9("This week",null,null,null,null,null,null,null,null,null,null)
-B.MC=new A.kz(B.LO,B.UG,null,t.gh)
+B.UH=new A.d9("This week",null,null,null,null,null,null,null,null,null,null)
+B.MC=new A.kz(B.LO,B.UH,null,t.gh)
 B.LN=new A.fn(1,"today")
-B.UD=new A.d9("Today",null,null,null,null,null,null,null,null,null,null)
-B.MD=new A.kz(B.LN,B.UD,null,t.gh)
+B.UE=new A.d9("Today",null,null,null,null,null,null,null,null,null,null)
+B.MD=new A.kz(B.LN,B.UE,null,t.gh)
 B.ME=new A.te(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.MF=new A.ti(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.MG=new A.zz(null,null,null,null,null,null)
@@ -91538,9 +91538,9 @@ B.Pk=new A.jp(3,"hide")
 B.XT=new A.jp(4,"remove")
 B.yS=new A.jp(5,"timeout")
 B.Pl=new A.tN(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Uz=new A.d9("Enter valid amount",null,null,null,null,null,null,null,null,null,null)
+B.UA=new A.d9("Enter valid amount",null,null,null,null,null,null,null,null,null,null)
 B.Er=new A.aO(4e6)
-B.Pm=new A.pC(B.Uz,null,null,null,null,null,null,null,null,null,null,null,null,B.Er,null,null,null,B.G,null)
+B.Pm=new A.pC(B.UA,null,null,null,null,null,null,null,null,null,null,null,null,B.Er,null,null,null,B.G,null)
 B.yT=new A.AP(0,"permissive")
 B.Pn=new A.AP(1,"normal")
 B.Po=new A.AP(2,"forced")
@@ -91905,16 +91905,16 @@ B.Tf=new A.k(!0,B.R,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.TB=new A.k(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.QD=new A.k(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.Uy=new A.dy(B.So,B.Rq,B.Sp,B.ST,B.R3,B.Ra,B.RI,B.SJ,B.RV,B.Tl,B.Qv,B.QL,B.Tf,B.TB,B.QD)
-B.UB=new A.d9("Cancel",null,null,null,null,null,null,null,null,null,null)
-B.UC=new A.d9("Save",null,null,null,null,null,null,null,null,null,null)
+B.Uz=new A.d9("Simple Expense Tracker",null,null,null,null,null,null,null,null,null,null)
+B.UC=new A.d9("Cancel",null,null,null,null,null,null,null,null,null,null)
+B.UD=new A.d9("Save",null,null,null,null,null,null,null,null,null,null)
 B.zj=new A.d9("Add category",null,null,null,null,null,null,null,null,null,null)
 B.D4=new A.D(1,0.9607843137254902,0.9607843137254902,0.9607843137254902,B.i)
 B.CY=new A.D(1,0.9333333333333333,0.9333333333333333,0.9333333333333333,B.i)
 B.Ka=new A.cm([50,B.mn,100,B.D4,200,B.CY,300,B.mp,350,B.dd,400,B.iA,500,B.mt,600,B.e8,700,B.cF,800,B.cg,850,B.iG,900,B.m9],t.pl)
 B.Ku=new A.rR(B.Ka,1,0.6196078431372549,0.6196078431372549,0.6196078431372549,B.i)
 B.QW=new A.k(!0,B.Ku,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.UF=new A.d9("Total",null,B.QW,null,null,null,null,null,null,null,null)
-B.UH=new A.d9("Simple Expense Tracker By Vanness Plus Consulting Co., Ltd.",null,null,null,null,null,null,null,null,null,null)
+B.UG=new A.d9("Total",null,B.QW,null,null,null,null,null,null,null,null)
 B.UI=new A.d9("Pick",null,null,null,null,null,null,null,null,null,null)
 B.RM=new A.k(!0,null,null,null,null,null,16,B.cl,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.UM=new A.d9("By Category",null,B.RM,null,null,null,null,null,null,null,null)
